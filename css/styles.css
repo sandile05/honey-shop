@@ -217,3 +217,14 @@ header.sticky{
     line-height: 30px;
     margin: 3rem;
 }
+
+/* our shop section styling */
+.middle-text{
+    text-align: center;
+}
+.middle-text h4{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--main-color);
+}
